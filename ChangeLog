@@ -1,4 +1,5 @@
 
+	* fix issue resuming 1.0.x downloads with a file priority 0
 	* fix pad-file scalability issue
 	* made coalesce_reads/coalesce_writes settings take effect on linux and windows
 	* restore support for incoming connections over SOCKS5 (disabled by default)
